@@ -1,0 +1,30 @@
+    body {
+        text-align: center;
+        font-family: Arial;
+        background-color: lightblue;
+    }
+
+    h1 {
+        color: darkblue;
+    }
+
+    input {
+        padding: 8px;
+        margin: 5px;
+    }
+
+    button {
+        padding: 8px 15px;
+        background-color: green;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: darkgreen;
+    }
+
+    #details {
+        margin-top: 20px;
+    }
